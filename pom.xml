@@ -395,6 +395,11 @@
             </dependency>
             <dependency>
                 <groupId>ring</groupId>
+                <artifactId>ring-core</artifactId>
+                <version>${ring.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ring</groupId>
                 <artifactId>ring-devel</artifactId>
                 <version>${ring.version}</version>
             </dependency>
